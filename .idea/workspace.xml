@@ -2,88 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b95bd844-0674-4aa7-8e34-fd22b8c5d7fc" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.editorconfig" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.eslintrc.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.github/CODE_OF_CONDUCT.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.github/CONTRIBUTING.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.github/PULL_REQUEST_TEMPLATE.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.github/SUPPORT.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/untitled.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.jscsrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.travis/github_deploy_key.enc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/CHANGELOG.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/LICENSE.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/.editorconfig" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/.gitattributes" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/.htaccess" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/404.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/LICENSE.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/browserconfig.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/css/main.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/css/normalize.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/doc/TOC.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/doc/css.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/doc/extend.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/doc/faq.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/doc/html.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/doc/js.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/doc/misc.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/doc/usage.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/humans.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/img/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/js/main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/js/plugins.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/js/vendor/jquery-3.3.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/js/vendor/modernizr-3.6.0.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/robots.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/site.webmanifest" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/tile-wide.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/tile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gulpfile.babel.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modernizr-config.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/.editorconfig" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/.gitattributes" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/404.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/browserconfig.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/css/main.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/doc/TOC.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/doc/css.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/doc/extend.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/doc/faq.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/doc/html.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/doc/js.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/doc/misc.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/doc/usage.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/humans.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/img/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/js/main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/js/plugins.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/robots.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/site.webmanifest" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/tile-wide.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/tile.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/file_content.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/file_existence.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yarn.lock" />
+      <change beforePath="$PROJECT_DIR$/src/.gitignore" afterPath="$PROJECT_DIR$/src/.gitignore" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -100,7 +19,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3800">
+            <state relative-caret-position="0">
               <caret line="95" column="16" lean-forward="false" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="16" />
               <folding />
             </state>
@@ -120,8 +39,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+            <state relative-caret-position="120">
+              <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -237,12 +156,12 @@
       <updated>1537392331725</updated>
       <workItem from="1537392333882" duration="1135000" />
       <workItem from="1537393499680" duration="6678000" />
-      <workItem from="1537400428240" duration="193000" />
+      <workItem from="1537400428240" duration="523000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8006000" />
+    <option name="totallyTimeSpent" value="8336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3872" height="2116" extended-state="6" />
@@ -313,7 +232,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3800">
+        <state relative-caret-position="0">
           <caret line="95" column="16" lean-forward="false" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="16" />
           <folding />
         </state>
@@ -329,8 +248,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        <state relative-caret-position="120">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
           <folding />
         </state>
       </provider>
