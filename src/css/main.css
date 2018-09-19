@@ -1,0 +1,52 @@
+body {
+  background-color: #000;
+}
+.tileouter {
+  background-color: #444;
+  border: 2px solid #ccbc6e;
+}
+.tileheader {
+  color: white;
+  border-bottom: 1px solid #ffe54b;
+  text-align: center;
+  width: 350px;
+  padding-bottom: 5px;
+}
+.tilebody {
+  color: white;
+  text-align: center;
+}
+.center {
+  align-items: center;
+  -webkit-align-items: center;
+  margin: auto;
+}
+.spacertop {
+  padding-top: 15px;
+}
+.spacerdiv {
+  margin-bottom: 5px;
+}
+.inner {
+  background-color: #004d44;
+}
+
+
+
+
+/*Media queries*/
+
+/*// Extra small devices (portrait phones, less than 576px)*/
+/*@media (max-width: 575.98px) { ... }*/
+
+/*// Small devices (landscape phones, less than 768px)*/
+/*@media (max-width: 767.98px) { ... }*/
+
+/*// Medium devices (tablets, less than 992px)*/
+/*@media (max-width: 991.98px) { ... }*/
+
+/*// Large devices (desktops, less than 1200px)*/
+/*@media (max-width: 1199.98px) { ... }*/
+
+/*// Extra large devices (large desktops)*/
+/*// No media query since the extra-large breakpoint has no upper bound on its width*/
